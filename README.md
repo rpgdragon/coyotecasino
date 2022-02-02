@@ -39,3 +39,9 @@ El resultado del programa será el siguiente:
    
    *TotalGemas: 0*
    
+   **TotalPartidas** -> Indica el número total de partidas que se han jugado. Coincide con el parametro **NumPartidas**
+   **TotalRondas** -> Número de rondas que se han jugado en total. Esto incluye las rondas bonus
+   **NumCoyotes** -> Número de cartas coyote que han salido
+   **RatioRondasCoyote** -> Media de cuantas rondas ha tardado en salir el coyote TotalRondas/NumCoyotes
+   **%Coyote** -> Probabilidad de que salga el coyote. Media de todas las partidas NumCoyotes/RondaFinal
+   **TotalGemas** -> Número de gemas gastadas
