@@ -47,6 +47,6 @@ El resultado del programa será el siguiente:
    
    **RatioRondasCoyote** -> Media de cuantas rondas ha tardado en salir el coyote TotalRondas/NumCoyotes
    
-   **%Coyote** -> Probabilidad de que salga el coyote. Media de todas las partidas NumCoyotes/RondaFinal
+   **%Coyote** -> Probabilidad de que salga el coyote. Media de todas las partidas NumCoyotes/RondaFinal. No se tiene en cuenta las rondas bonus.
    
    **TotalGemas** -> Número de gemas gastadas
